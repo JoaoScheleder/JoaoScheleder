@@ -18,6 +18,11 @@ Linguagens que ja utilizei ou tive alguma experiência.
 
 Frameworks
 - Angular 2+ 
+- vue
+
+Mobile
+- Ionic
+- Flutter
 
 Banco de dados que ja utilizei ou tive alguma experiência.
 - MySQL
@@ -25,7 +30,7 @@ Banco de dados que ja utilizei ou tive alguma experiência.
 - SQL server
 - Firebase
 
-e o que não pode faltar HTML bem estruturado e bom CSS/SCSS
+e o que não pode faltar HTML , CSS/SCSS , svelte
 
 ### Analytics ⚙️
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoScheleder&layout=compact&count_private=true)
