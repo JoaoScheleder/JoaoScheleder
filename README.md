@@ -8,6 +8,7 @@ Desenvolvimento de LandPages ,utilização de bibliotecas de gráficos (Chart.js
 Criação de aplicações CRUD
 Desenvolvimento de aplicações mobile com Ionic + Angular
 Básico de Desenvolvimento Flutter, não sendo muito familiarizado com gerenciamento de estado.
+Familiaridade com desenvolvimento de sites com PHP e MySQL.
 
 Linguagens que ja utilizei ou tive alguma experiência.
 - JavaScript/TypeScript
@@ -16,9 +17,8 @@ Linguagens que ja utilizei ou tive alguma experiência.
 - Dart
 - Java
 
-Frameworks
+Frameworks web
 - Angular 2+ 
-- vue
 
 Mobile
 - Ionic
