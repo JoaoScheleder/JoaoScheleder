@@ -7,8 +7,7 @@ Consumo e criação de API's em NODE.js,
 Desenvolvimento de LandPages ,utilização de bibliotecas de gráficos (Chart.js, ApexCharts)
 Criação de aplicações CRUD
 Desenvolvimento de aplicações mobile com Ionic + Angular
-Básico de Desenvolvimento Flutter, não sendo muito familiarizado com gerenciamento de estado.
-Familiaridade com desenvolvimento de sites com PHP e MySQL.
+Básico de Desenvolvimento Flutter, desenvolvimento de sites com PHP e MySQL.
 
 Linguagens que ja utilizei ou tive alguma experiência.
 - JavaScript/TypeScript
