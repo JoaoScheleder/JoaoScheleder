@@ -3,7 +3,7 @@
 
 Meu nome é João Gabriel, trabalho com desenvolvimento de software
 tendo experiência no desenvolvimento de sistema ERP e manutenção de dashboards de BI,
-Consumo e criação(básico) de API's em NODE.js,
+Consumo e criação de API's em NODE.js,
 Desenvolvimento de LandPages ,utilização de bibliotecas de gráficos (Chart.js, ApexCharts)
 Criação de aplicações CRUD
 Desenvolvimento de aplicações mobile com Ionic + Angular
