@@ -3,9 +3,9 @@
 
 Olá me chamo joão tenho experiência com consumo e criação de API's em NODE.js,
 desenvolvimento de LandPages ,utilização de bibliotecas de gráficos (Chart.js, ApexCharts)
-Criação de aplicações CRUD
-Desenvolvimento de aplicações mobile com Ionic + Angular
-Básico de Desenvolvimento Flutter, desenvolvimento de sites com PHP e MySQL.
+Criação de aplicações CRUD, SPA com Angular e React
+Desenvolvimento de aplicações mobile com Flutter e tambem com Ionic + Angular,
+desenvolvimento com PHP e MySQL.
 
 Linguagens que ja utilizei ou tive alguma experiência.
 - JavaScript/TypeScript
