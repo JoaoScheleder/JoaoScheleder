@@ -1,33 +1,18 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Bem-vindo(a) ao meu perfil  ! </h1>
 
-Olá me chamo joão tenho experiência com consumo e criação de API's em NODE.js,
-desenvolvimento de LandPages ,utilização de bibliotecas de gráficos (Chart.js, ApexCharts,...),
-criação de aplicações CRUD, SPA com Angular e React,
-desenvolvimento de aplicações mobile com Flutter e tambem com Ionic + Angular,
-desenvolvimento com PHP e MySQL.
+Trabalho como desenvolvedor tendo experiência em:
+- desenvolvimento de sistemas Web,
+- banco de dados SQL
+- criação e consumo de API's 
+- bibliotecas de gráficos, 
+- aplicativos, 
+- IoT com ESP32 e microPython.
 
-Linguagens que ja utilizei ou tive alguma experiência.
-- JavaScript/TypeScript
-- Python
-- PHP
-- Dart
-- Java
-
-Frameworks web
-- Angular 2+ 
-
-Mobile
-- Ionic
-- Flutter
-
-Banco de dados que ja utilizei ou tive alguma experiência.
-- MySQL
-- PostgreSQL
-- SQL server
-- Firebase
-
-e o que não pode faltar HTML , CSS/SCSS , svelte
+Linguagens : Javascript/Typescript, python, Dart, PHP, Java
+Frameworks: Angular 2+, React, Vue, Svelte
+Mobile: Ionic, Flutter
+Banco de dados: MySQL, postgreSQL, SQL Server. firebase, mongoDB
 
 ### Analytics ⚙️
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoScheleder&layout=compact&count_private=true)
