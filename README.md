@@ -9,10 +9,10 @@ Trabalho como desenvolvedor tendo experiência em:
 - aplicativos, 
 - IoT com ESP32 e microPython.
 
-Linguagens : Javascript/Typescript, python, Dart, PHP, Java
-Frameworks: Angular 2+, React, Vue, Svelte
-Mobile: Ionic, Flutter
-Banco de dados: MySQL, postgreSQL, SQL Server. firebase, mongoDB
+- Linguagens : Javascript/Typescript, python, Dart, PHP, Java
+- Frameworks: Angular 2+, React, Vue, Svelte
+- Mobile: Ionic, Flutter
+- Banco de dados: MySQL, postgreSQL, SQL Server. firebase, mongoDB
 
 ### Analytics ⚙️
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoScheleder&layout=compact&count_private=true)
