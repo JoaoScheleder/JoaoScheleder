@@ -19,6 +19,4 @@ Trabalho como desenvolvedor tendo experiência em:
 ### Analytics ⚙️
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoScheleder&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=JoaoScheleder&count_private=true&show_icons=true)
-
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=JoaoScheleder&hide_border=true)
