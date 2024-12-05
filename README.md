@@ -1,22 +1,50 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to My Profile! </h1>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Bem-vindo(a) ao meu perfil  ! </h1>
+I work as a developer with experience in:  
+- Web systems development  
+- SQL databases  
+- Creating and consuming APIs  
+- Chart libraries  
+- Applications  
+- IoT with ESP32 and MicroPython  
 
-Trabalho como desenvolvedor tendo experiência em:
-- desenvolvimento de sistemas Web,
-- banco de dados SQL
-- criação e consumo de API's 
-- bibliotecas de gráficos, 
-- aplicativos, 
-- IoT com ESP32 e microPython.
+### 🚀 Technical Skills  
+- **Languages:** JavaScript/TypeScript, Python, Dart, PHP, Java  
+- **Frameworks:** Angular 2+, React, Vue, Svelte  
+- **Mobile:** Ionic, Flutter  
+- **Databases:** MySQL, PostgreSQL, SQL Server, Firebase, MongoDB  
+- **Cloud Services:** Azure, AWS  
 
+---
 
-- Linguagens : Javascript/Typescript, python, Dart, PHP, Java
-- Frameworks: Angular 2+, React, Vue, Svelte
-- Mobile: Ionic, Flutter
-- Banco de dados: MySQL, postgreSQL, SQL Server. firebase, mongoDB
-- Cloud: Azure, AWS
+## 🌟 Highlights  
 
-### Analytics ⚙️
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoScheleder&layout=compact&count_private=true)
+### 🛠️ Projects  
+Check out some of my most exciting projects:  
+- **[Project Name](#)** - Brief description of what this project does.  
+- **[Another Cool Project](#)** - Another description that sparks interest!  
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=JoaoScheleder&hide_border=true)
+### 🧠 Learning Goals  
+Currently improving:  
+- Advanced cloud architectures 🌩️  
+- Edge computing with IoT devices 🤖  
+
+---
+
+## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoScheleder&show_icons=true&theme=radical)  
+
+### 💻 My Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoScheleder&layout=compact&theme=radical)  
+
+---
+
+## 🤝 Let's Connect!  
+Feel free to reach out via:  
+- 🌐 [Portfolio](https://joao-gabriel.com)  
+- 📧 [Email](mailto:jg.scheleder@hotmail.com.com)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/jo%C3%A3o-gabriel-scheleder-653a3a205/))  
+
+---
+
+<h3 align="center">✨ Thanks for visiting! Have a great day! ✨</h3>
