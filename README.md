@@ -43,7 +43,7 @@ Currently improving:
 Feel free to reach out via:  
 - 🌐 [Portfolio](https://joao-gabriel.com)  
 - 📧 [Email](mailto:jg.scheleder@hotmail.com.com)  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/jo%C3%A3o-gabriel-scheleder-653a3a205/))  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/jo%C3%A3o-gabriel-scheleder-653a3a205/])  
 
 ---
 
