@@ -28,7 +28,7 @@ Over 5 years of experience specializing in end-to-end application development. I
 ---
 
 ### My Tech Stack
-  <br/>
+
   <p>
     <strong>Frontend:</strong>
     <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" />
